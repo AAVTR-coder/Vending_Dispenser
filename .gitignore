@@ -10,6 +10,8 @@ build/
 
 # environment variables
 .env
+congig/config.env
+
 
 # OS/system files
 .DS_Store
