@@ -10,7 +10,7 @@ build/
 
 # environment variables
 .env
-congig/config.env
+config/config.env
 
 
 # OS/system files
